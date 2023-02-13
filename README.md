@@ -6,7 +6,8 @@ Select an image and spits out:
 - The time processing took
 
 # Input
-https://github.com/two-trick-pony-NL/Detect-ShapeColorText/blob/master/images/multi.png
+Upload an image with shapes and text: 
+<img width="949" alt="multi" src="https://user-images.githubusercontent.com/71013416/218594557-00a73dd5-58a6-4eac-9e7b-015097ae8bbf.png">
 
 # output
 ```
@@ -14,11 +15,7 @@ https://github.com/two-trick-pony-NL/Detect-ShapeColorText/blob/master/images/mu
 
 
 🔸 I found these shapes:
---- circle
---- circle
---- circle
---- circle
---- circle
+
 --- circle
 --- circle
 --- star
