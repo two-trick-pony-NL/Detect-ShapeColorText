@@ -6,6 +6,7 @@ Select an image and spits out:
 - The time processing took
 
 # Input
+https://github.com/two-trick-pony-NL/Detect-ShapeColorText/blob/master/images/multi.png
 
 # output
 ```
